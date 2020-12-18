@@ -3,7 +3,7 @@
 ```
 git clone
 python -m venv venv
-pip install ir requirements.txt
+pip install -r requirements.txt
 ```
 ```python
 python manage.py runserver
