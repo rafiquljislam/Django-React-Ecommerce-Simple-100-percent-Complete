@@ -5,12 +5,11 @@ git clone
 python -m venv venv
 pip install ir requirements.txt
 ```
-
-```javascript
-npm i
-npm run build
-```
-
 ```python
 python manage.py runserver
 ```
+# Full Website in Gif
+<img src="screenshots/full.gif" />
+
+# Home Page
+<img src="screenshots/home.png" />
