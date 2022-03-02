@@ -1,4 +1,4 @@
-# get started
+# getting started
 
 ```
 git clone
